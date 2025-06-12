@@ -13,7 +13,7 @@ void main() {
       print('encrypted: $encrypted');
     }
     String? decrypted =
-        FMBCrypt.handleText('decrypt', encrypted!, 'test password');
+        FMBCrypt.handleText('decrypt', encrypted, 'test password');
     expect(decrypted, isNotNull);
     expect(decrypted, equals('Hello World!'));
     if (kDebugMode) {
