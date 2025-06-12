@@ -1,4 +1,3 @@
-import 'dart:io';
 
 import 'package:firka/wear_main.dart';
 import 'package:flutter/cupertino.dart';

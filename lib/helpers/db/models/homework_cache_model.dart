@@ -1,4 +1,3 @@
-import 'package:firka/helpers/api/client/kreta_client.dart';
 import 'package:isar/isar.dart';
 
 import '../util.dart';
