@@ -1,0 +1,64 @@
+{
+    "@_LOGIN": {},
+    "loginBtn": "Bejelentkezés E-Kréta fiókkal",
+    "privacyLabel": "Adatvédelmi tájékoztató",
+
+    "title1": "A romló tendenciádat tízféle képpen láthatod",
+    "subtitle1": "Annyi statisztikát láthatsz, hogy a 8 általánosos matek nem lesz elég a kisilabizálására.",
+    "title2": "Kudarcaid most már grafikonon is követhetőek",
+    "subtitle2": "Nézd ahogy a görbék lefelé mutatnak, akár az életed kilátásai.",
+    "title3": "Számokkal bizonyítjuk, mennyire rosszul teljesítesz",
+    "subtitle3": "Még a szépített adatok is siralmas képet festenek rólad.",
+    "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
+    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad.",
+
+    "@_DATES": {},
+    "yesterday": "Tegnap",
+    "today": "Ma",
+    "tomorrow": "Holnap",
+
+    "@_HOME": {},
+    "home": "Kezdőlap",
+    "grades": "Jegyek",
+    "timetable": "Órarend",
+    "other": "Több",
+    "refreshing": "Adatok frissítése...",
+    "api_error": "Kréta API hiba",
+
+    "@_HOME_GRADES": {},
+    "subjects": "Tantárgyak",
+    "your_subjects": "Tantárgyaid",
+    "data": "Adatok",
+    "subject_avg": "Tantárgyi átlag",
+    "class_avg": "Osztályátlag",
+    "class_n": "Heti óraszám",
+
+    "@_WEAR": {},
+    "breakTxt": "Szünet",
+    "timeLeft": "Még {mins} perc",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Nincs ma iskola, pihend ki magad!",
+    "noMoreClasses": "Nincs több órád ma",
+    "firstIn": "Első órád: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. óra",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
+}
